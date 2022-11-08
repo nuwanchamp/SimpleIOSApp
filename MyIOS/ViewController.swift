@@ -26,6 +26,5 @@ class ViewController: UIViewController {
         textLabel.centerXAnchor.constraint(equalTo: view.centerXAnchor).isActive = true
         textLabel.centerYAnchor.constraint(equalTo: view.centerYAnchor).isActive = true
     }
-    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
 }
 
